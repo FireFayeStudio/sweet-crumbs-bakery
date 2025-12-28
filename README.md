@@ -106,3 +106,7 @@ The client requested a website that meets the following criteria:
 ## 📦 Project Status
 
 In Progress
+
+## Project Management
+This project was managed using GitHub Issues and Milestones to simulate a real-world development workflow. Tasks were planned, tracked, and completed in phases to reflect professional development practices.
+
