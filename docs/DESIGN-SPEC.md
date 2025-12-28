@@ -28,6 +28,9 @@ Borders & Subtle Dividers:
 
 ---
 
+## Logo
+The Sweet Crumbs Bakery logo features a centered, balanced layout with a minimalist cupcake icon. The typography-first wordmark reflects a modern boutique patisserie aesthetic, using a refined serif for the brand name and a clean sans-serif for supporting text. Accent elements in soft gold add warmth without overpowering the design.
+
 ## Typography
 
 Primary Font (Headings):
